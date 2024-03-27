@@ -1,0 +1,1 @@
+I have implemented the Spectral Clustring algorithm and Principal Components Analysis (PCA) technique from scratch. I performed PCA on the [Iris dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) to reduce the dimensionality. My goal is to compare the spectral clustering accuracy of the dataset before and after doing PCA.
